@@ -1,0 +1,1 @@
+You need to overwrite dictionary.txt to change the dictionary list.
